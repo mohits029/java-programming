@@ -20,7 +20,7 @@ class Abc{
     }
     public static void main(String args[]){
         int arr[]= {1,3,5,7,9,10,11,14,34,66};
-        int n= 14;
+        int n= 10;
         int x= BinarySearch(arr, n);
         System.out.println(x);
     }
